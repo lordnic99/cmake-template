@@ -14,3 +14,8 @@ Support those project struct only:
 ├── CMakeLists.txt
 └── main.c
 ```
+
+# Disclaimer
+
+This project is using for myself, as the path of learning Python. 
+If you want to use it, make sure you understand what am I doing.
